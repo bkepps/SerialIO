@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\bensk\source\repos\SerialIO\SerialIO\main.c(20,11): warning C4098: 'main': 'void' function returning a value
+  SerialIO.vcxproj -> C:\Users\bensk\source\repos\SerialIO\Debug\SerialIO.exe
